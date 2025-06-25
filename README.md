@@ -16,7 +16,7 @@
 
 - 🎓 Cybersecurity graduate by **FIAP**  
 - 👨‍💻 Obsessed with clean code, secure systems, and scalable infrastructure  
-- 🔥 Background in **software development** (Node.js, React, Python, Go), **cloud**, **DevSecOps** & **offensive security**  
+- 🔥 Background in **software development** (Node.js, React, Python, C++), **cloud**, **DevSecOps** & **offensive security**  
 - 💡 Currently developing SaaS architectures and working on personal OSINT tools & pentest kits  
 - 🎹 Fun fact: **I'm a former pianist turned into a command-line junkie**
 
