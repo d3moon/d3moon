@@ -5,8 +5,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&theme=tokyonight"/> 
 </p>
 
-![snake gif](https://github.com/d3moon/d3moon/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3moon&label=Profile%20views&color=0e75b6&style=flat" alt="d3moon" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3moon" alt="d3moon" /></a> </p>
