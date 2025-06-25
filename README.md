@@ -1,41 +1,75 @@
-<h1 align="center">Hi 👋, I'm João Victor F. Braga</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4F7A3&width=700&lines=%22Man+is+free+at+the+moment+he+wishes+to+be.%22+-+Voltaire" alt="Typing SVG" /></a></p>
-<h3 align="center">A Specialist in Software Development and Offensive Security</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&theme=tokyonight"/> 
+<h1 align="center">João Victor F. Braga (a.k.a d3moon)</h1>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4F7A3&width=700&lines=%22Man+is+free+at+the+moment+he+wishes+to+be.%22+-+Voltaire">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4F7A3&width=700&lines=%22Man+is+free+at+the+moment+he+wishes+to+be.%22+-+Voltaire" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=d3moon&label=Profile%20views&color=0e75b6&style=flat" alt="d3moon" /> </p>
+<p align="center">
+  <strong>Specialist in Software Engineering & Offensive Security • Cybersecurity Technologist (FIAP)</strong><br/>
+  <em>Backend-heavy | Fullstack | Cloud-Native | Pentester | OSS Enthusiast</em>
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3moon" alt="d3moon" /></a> </p>
+---
 
-<img alt="hackerman" src="https://media.tenor.com/xuNo8NDdwIkAAAAd/hackerman.gif"></img>
+## 🧠 About Me
 
-- 🌱 Currently graduated Cybersecurity at **FIAP**
+- 🎓 Cybersecurity graduate by **FIAP**  
+- 👨‍💻 Obsessed with clean code, secure systems, and scalable infrastructure  
+- 🔥 Background in **software development** (Node.js, React, Python, Go), **cloud**, **DevSecOps** & **offensive security**  
+- 💡 Currently developing SaaS architectures and working on personal OSINT tools & pentest kits  
+- 🎹 Fun fact: **I'm a former pianist turned into a command-line junkie**
 
-- 👨‍💻 All of my projects are available at [https://github.com/d3moon](https://github.com/d3moon)
+---
 
-- 📝 I regularly write articles on [https://medium.com/@d3moon](https://medium.com/@samsepi0l)
+## 📈 GitHub Analytics
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jvf-braga/](https://www.linkedin.com/in/jvf-braga/)
-- Portfolio [https://portfolio-jvf-braga.vercel.app](https://portfolio-jvf-braga.vercel.app)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=d3moon&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3moon&theme=tokyonight" />
+</p>
 
-- ⚡ Fun fact **I used to be a pianist**
-<br/>
+---
 
+## 🚀 Projects & Publications
 
-"Help support the work of a dedicated programmer by contributing with your donation. Your contribution will allow me to continue creating innovative solutions and changing the world through my coding work."
+- 💼 All projects: [github.com/d3moon](https://github.com/d3moon)
+- 📰 Articles: [medium.com/@d3moon](https://medium.com/@d3moon)
+- 🌐 Portfolio: [portfolio-jvf-braga.vercel.app](https://portfolio-jvf-braga.vercel.app)
+- 📄 Resume: [linkedin.com/in/jvf-braga](https://www.linkedin.com/in/jvf-braga/)
 
-```
-Bitcoin   [BTC]     bc1qpj6ue0c95maxrgzyzg366pvrwqzmaxp3j9a9h2
-```
-<br/>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tech Stack & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/d3moon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d3moon" height="30" width="40" /></a>
-<a href="https://medium.com/@d3moon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@d3moon" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,php,django,vue,tailwind,postgres,mysql,mongodb,redis,aws,gcp,azure,docker,kubernetes,nginx,bash,linux,graphql,jest,kafka,git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
+
+## 💀 Side Interests
+
+- 🔐 Red Teaming, CTFs, Malware Reverse Engineering  
+- 🧪 Building micro SaaS & automated recon tools  
+- 🧠 Studying philosophy, anti-dogmatic systems and behavioral psy
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/d3moon" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://medium.com/@d3moon" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" height="30" />
+  </a>
+</p>
+
+---
+
+## ⚡ Support My Work
+
+> _"Support an independent developer creating open-source, cybersecurity tools and resilient software ecosystems."_
