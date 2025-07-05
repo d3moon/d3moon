@@ -58,15 +58,11 @@
 ---
 
 ## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/d3moon" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://medium.com/@d3moon" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" height="30" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/d3moon" target="_blank">LinkedIn</a> • 
+  <a href="https://medium.com/@d3moon" target="_blank">Medium</a>
 </p>
+
 
 ---
 
