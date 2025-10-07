@@ -36,7 +36,7 @@
 
 - 💼 All projects: [github.com/d3moon](https://github.com/d3moon)
 - 📰 Articles: [medium.com/@d3moon](https://medium.com/@d3moon)
-- 🌐 Portfolio: [portfolio-jvf-braga.vercel.app](https://portfolio-jvf-braga.vercel.app)
+- 🌐 Portfolio: [https://jvf-braga-showcase.vercel.app/](https://jvf-braga-showcase.vercel.app/)
 - 📄 Resume: [linkedin.com/in/jvf-braga](https://www.linkedin.com/in/jvf-braga/)
 
 ---
