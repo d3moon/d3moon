@@ -35,10 +35,6 @@
 ## 🚀 Projects & Publications
 
 - 💼 All projects: [github.com/d3moon](https://github.com/d3moon)
-- 📰 Articles: [medium.com/@d3moon](https://medium.com/@d3moon)
-- 🌐 Portfolio: [https://jvf-braga-showcase.vercel.app/](https://jvf-braga-showcase.vercel.app/)
-- 📄 Resume: [linkedin.com/in/jvf-braga](https://www.linkedin.com/in/jvf-braga/)
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -54,15 +50,6 @@
 - 🔐 Red Teaming, CTFs, Malware Reverse Engineering  
 - 🧪 Building micro SaaS & automated recon tools  
 - 🧠 Studying philosophy, anti-dogmatic systems and behavioral psy
-
----
-
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/d3moon" target="_blank">LinkedIn</a> • 
-  <a href="https://medium.com/@d3moon" target="_blank">Medium</a>
-</p>
-
 
 ---
 
