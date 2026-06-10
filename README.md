@@ -22,16 +22,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=d3moon&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3moon&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Projects & Publications
 
 - 💼 All projects: [github.com/d3moon](https://github.com/d3moon)
